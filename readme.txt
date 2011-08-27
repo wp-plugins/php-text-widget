@@ -1,9 +1,9 @@
 === PHP Text Widget ===
 Tags: widget,php,text,sidebar
 Requires at least: 2.8
-Tested up to: 3.0.1
+Tested up to: 3.2.1
 Stable tag: trunk
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2545483
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=s-xclick&hosted_button_id=2545483
 Contributors: satollo
 
 Executes PHP code on WordPress default Text Widget
@@ -18,6 +18,13 @@ I'm using it on few blogs where a sidebar located ads has to be shown only for p
 in a particular category.
 
 On plugin official page there are some examples.
+
+== Versions ==
+
+= 1.0.1 =
+
+* compatibility update
+* option panel
 
 == Installation ==
 

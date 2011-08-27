@@ -4,7 +4,7 @@
   Plugin Name: PHP Text Widget
   Plugin URI: http://www.satollo.net
   Description: Extends the default WordPress text widget making it able to execute PHP code
-  Version: 1.0.0
+  Version: 1.0.1
   Author: Satollo
   Author URI: http://www.satollo.net
   Disclaimer: Use at your own risk. No warranty expressed or implied is provided.
@@ -32,4 +32,10 @@ function ptw_the_content($content) {
         $ptw_post_id = $post->ID;
     }
     return $content;
+}
+
+add_action('admin_menu', 'ptw_admin_menu');
+
+function ptw_admin_menu() {
+    add_options_page('PHP Text Widget', 'PHP Text Widget', 'manage_options', 'php-text-widget/options.php');
 }
