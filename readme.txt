@@ -1,10 +1,9 @@
 === PHP Text Widget ===
 Tags: widget,php,text,sidebar
 Requires at least: 2.8
-Tested up to: 3.2.1
+Tested up to: 3.4
 Stable tag: trunk
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=s-xclick&hosted_button_id=2545483
-Contributors: satollo
 
 Executes PHP code on WordPress default Text Widget
 
@@ -19,13 +18,6 @@ in a particular category.
 
 On plugin official page there are some examples.
 
-== Versions ==
-
-= 1.0.1 =
-
-* compatibility update
-* option panel
-
 == Installation ==
 
 1. Put the plugin folder into [wordpress_dir]/wp-content/plugins/
@@ -39,3 +31,9 @@ See the plugin offical page.
 == Screenshots ==
 
 No screenshots are available.
+
+== Changelog ==
+
+= 1.0.2 =
+
+* compatibility check with WP 3.4

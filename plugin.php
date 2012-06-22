@@ -2,10 +2,10 @@
 
 /*
   Plugin Name: PHP Text Widget
-  Plugin URI: http://www.satollo.net
+  Plugin URI: http://www.satollo.net/plugins/php-text-widget
   Description: Extends the default WordPress text widget making it able to execute PHP code
-  Version: 1.0.1
-  Author: Satollo
+  Version: 1.0.2
+  Author: Stefano Lissa
   Author URI: http://www.satollo.net
   Disclaimer: Use at your own risk. No warranty expressed or implied is provided.
  */
