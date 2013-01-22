@@ -1,9 +1,9 @@
 === PHP Text Widget ===
 Tags: widget,php,text,sidebar
 Requires at least: 2.8
-Tested up to: 3.4
+Tested up to: 3.5
 Stable tag: trunk
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=s-xclick&hosted_button_id=2545483
+Donate link: http://www.satollo.net/donations
 
 Executes PHP code on WordPress default Text Widget
 
@@ -33,6 +33,10 @@ See the plugin offical page.
 No screenshots are available.
 
 == Changelog ==
+
+= 1.0.3 =
+
+* Administrative styles and header
 
 = 1.0.2 =
 
