@@ -1,7 +1,7 @@
 === PHP Text Widget ===
 Tags: widget,php,text,sidebar
 Requires at least: 2.8
-Tested up to: 3.5
+Tested up to: 3.5.2
 Stable tag: trunk
 Donate link: http://www.satollo.net/donations
 
@@ -9,8 +9,13 @@ Executes PHP code on WordPress default Text Widget
 
 == Description ==
 
-PHP Text Widget modifies the standard Text Widget of WordPress executing PHP code
-eventually present on its text. That let the blog owner to control the text displayed
+PHP Text Widget modifies the standard Text Widget of WordPress making it able to
+execute PHP code. 
+
+The normal behaviour of the text widget is preserved so it can be activated without
+fear.
+
+That let the blog owner to control the text displayed
 with PHP, eg. showing different ads on different posts, pages, categories and so on.
 
 I'm using it on few blogs where a sidebar located ads has to be shown only for posts
@@ -33,6 +38,10 @@ See the plugin offical page.
 No screenshots are available.
 
 == Changelog ==
+
+= 1.0.4 =
+
+* Small changes
 
 = 1.0.3 =
 
