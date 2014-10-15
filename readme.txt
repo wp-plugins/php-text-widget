@@ -1,16 +1,17 @@
 === PHP Text Widget ===
 Tags: widget,php,text,sidebar,php
 Requires at least: 2.8
-Tested up to: 3.8
+Tested up to: 4.0
 Stable tag: trunk
 Donate link: http://www.satollo.net/donations
+Contributors: satollo
 
 Executes PHP code on WordPress default Text Widget
 
 == Description ==
 
 PHP Text Widget modifies the standard Text Widget of WordPress making it able to
-execute PHP code. 
+execute PHP code.
 
 The normal behaviour of the text widget is preserved so it can be activated without
 fear.
@@ -32,12 +33,16 @@ On plugin official page there are some examples.
 == Frequently Asked Questions ==
 
 See the plugin offical page.
-    
+
 == Screenshots ==
 
 No screenshots are available.
 
 == Changelog ==
+
+= 1.0.7 =
+
+* Label fix
 
 = 1.0.6 =
 
