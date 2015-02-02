@@ -1,7 +1,7 @@
 === PHP Text Widget ===
 Tags: widget,php,text,sidebar,php
 Requires at least: 2.8
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 Donate link: http://www.satollo.net/donations
 Contributors: satollo
@@ -39,6 +39,10 @@ See the plugin offical page.
 No screenshots are available.
 
 == Changelog ==
+
+= 1.0.8 =
+
+* WP 4.1 compatibility check
 
 = 1.0.7 =
 
